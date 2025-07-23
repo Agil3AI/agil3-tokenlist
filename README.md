@@ -18,7 +18,7 @@ Metadata & logo for Agil³ AI token on Sui Blockchain.
 
 | Name     | Symbol | ChainId | Decimals | Address                                      |
 |----------|--------|---------|----------|----------------------------------------------|
-| Agil³ AI | AGIL3  | 1344    | 9        |  agil3-tokenlist
+| Agil³AI | AGIL3  | 1344    | 9        |  agil3-tokenlist
 
 Metadata & logo for Agil³ AI token on Sui Blockchain.
 
