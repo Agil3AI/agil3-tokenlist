@@ -49,4 +49,4 @@ If you want to help list Agil³ in other dApps or improve the metadata, open a p
 ## Contact
 
 - Project: [agil3.ai](https://agil3.ai)
-- Twitter/X: [@agil3_ai](https://twitter.com/@Agil3AI)
+- Twitter/X: [@Agil3](https://twitter.com/@Agil3AI)
